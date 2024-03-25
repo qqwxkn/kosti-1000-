@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\PC1\source\repos\кубики\кубики4\Source.cpp(8,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\PC1\source\repos\кубики\кубики4\Source.cpp(15,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\PC1\source\repos\кубики\кубики4\Source.cpp(22,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  кубики4.vcxproj -> C:\Users\PC1\source\repos\кубики\x64\Debug\кубики4.exe
